@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/asif/static/css/main.a617e044.chunk.css",
-    "main.js": "/asif/static/js/main.8703db8a.chunk.js",
-    "main.js.map": "/asif/static/js/main.8703db8a.chunk.js.map",
-    "runtime-main.js": "/asif/static/js/runtime-main.979d9edc.js",
-    "runtime-main.js.map": "/asif/static/js/runtime-main.979d9edc.js.map",
-    "static/js/2.8fa497b5.chunk.js": "/asif/static/js/2.8fa497b5.chunk.js",
-    "static/js/2.8fa497b5.chunk.js.map": "/asif/static/js/2.8fa497b5.chunk.js.map",
-    "static/js/3.38906bfc.chunk.js": "/asif/static/js/3.38906bfc.chunk.js",
-    "static/js/3.38906bfc.chunk.js.map": "/asif/static/js/3.38906bfc.chunk.js.map",
+    "main.css": "/asif/static/css/main.dd7583e9.chunk.css",
+    "main.js": "/asif/static/js/main.2c192081.chunk.js",
+    "main.js.map": "/asif/static/js/main.2c192081.chunk.js.map",
+    "runtime-main.js": "/asif/static/js/runtime-main.60327fd4.js",
+    "runtime-main.js.map": "/asif/static/js/runtime-main.60327fd4.js.map",
+    "static/css/2.4be38407.chunk.css": "/asif/static/css/2.4be38407.chunk.css",
+    "static/js/2.77879852.chunk.js": "/asif/static/js/2.77879852.chunk.js",
+    "static/js/2.77879852.chunk.js.map": "/asif/static/js/2.77879852.chunk.js.map",
+    "static/js/3.0995ea04.chunk.js": "/asif/static/js/3.0995ea04.chunk.js",
+    "static/js/3.0995ea04.chunk.js.map": "/asif/static/js/3.0995ea04.chunk.js.map",
     "index.html": "/asif/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/asif/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.8fa497b5.chunk.js.LICENSE.txt": "/asif/static/js/2.8fa497b5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/asif/static/media/logo.6ce24c58.svg"
+    "static/css/2.4be38407.chunk.css.map": "/asif/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.dd7583e9.chunk.css.map": "/asif/static/css/main.dd7583e9.chunk.css.map",
+    "static/js/2.77879852.chunk.js.LICENSE.txt": "/asif/static/js/2.77879852.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/asif/static/media/background.41f2a2e3.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.979d9edc.js",
-    "static/js/2.8fa497b5.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.8703db8a.chunk.js"
+    "static/js/runtime-main.60327fd4.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.77879852.chunk.js",
+    "static/css/main.dd7583e9.chunk.css",
+    "static/js/main.2c192081.chunk.js"
   ]
 }
